@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Introduction
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A mini implementation of react renderer in the DOM environment.
+
+# Reference
+
+- [Hello World Custom React Renderer](https://agent-hunt.medium.com/hello-world-custom-react-renderer-9a95b7cd04bc).
+- [react-reconciler](https://www.npmjs.com/package/react-reconciler).
 
 ## Available Scripts
 
